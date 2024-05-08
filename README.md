@@ -1,7 +1,8 @@
+
 ### Hi there 👋
 
 <!--
-**WangYuanze111/WangYuanze111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PKUFlyingPig/WangYuanze111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangYuanze111&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
