@@ -1,6 +1,6 @@
 
 ### 👋 Hi there 
-### 🌱 I’m currently learning Python
+### 🌱 I’m currently learning CS
 ### 📫 How to reach me: wangyuanze.hlx@gmail.com 🐮
 <!--
 **PKUFlyingPig/WangYuanze111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
